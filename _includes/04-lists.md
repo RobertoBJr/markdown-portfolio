@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+1. Provas
+2. Trabalhos
+    1. Cursos
+    2. Casa
+    
+* Supermercado
+* Lojas
+    * Limpeza
+    * Horário
